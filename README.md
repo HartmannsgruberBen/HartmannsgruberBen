@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pferdesalbe
+- 👋 Hi, I’m Benjamin Hartmannsgruber
 - 👀 I’m interested in Kickboxing, Coding
 - 🌱 I’m currently learning App development, Kotlin, Python
 - 💞️ I’m looking to collaborate on private projects
