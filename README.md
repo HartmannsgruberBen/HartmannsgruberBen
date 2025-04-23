@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Benjamin Hartmannsgruber
 - 👀 I’m interested in Kickboxing, Coding
-- 🌱 I’m currently learning Kotlin, Angular
 - 💞️ I’m looking to collaborate on private projects
 - 📫 How to reach me ...
